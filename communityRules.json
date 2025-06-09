@@ -1,5 +1,5 @@
 {
-    "timestamp": 1748362949,
+    "timestamp": 1749442398,
     "rules": {
         "3tes.cgtwaa": {
             "loadAfter": {
@@ -17,164 +17,6 @@
                         "Facial Stuff PrepC Patch"
                     ]
                 }
-            },
-            "loadAfter": {
-                "aelanna.eccentricextras.angelhairs": {
-                    "name": [
-                        "Eccentric Extras - Angel Hairs"
-                    ]
-                },
-                "ameiro.animehairs": {
-                    "name": [
-                        "Ameiro anime hairs"
-                    ]
-                },
-                "automatic.gradienthair": {
-                    "name": [
-                        "Gradient Hair"
-                    ]
-                },
-                "cp.chicken.mitchell.hairstyles": {
-                    "name": [
-                        "[CP] Chicken Mitchell - Hairstyles"
-                    ]
-                },
-                "dzw.rimhairstylesmerged": {
-                    "name": [
-                        "RimHair Styles Merged"
-                    ]
-                },
-                "edb.preparecarefully": {
-                    "name": [
-                        "EdB Prepare Carefully",
-                        "EdBPrepareCarefully_TH"
-                    ]
-                },
-                "edge.varietyhair": {
-                    "name": [
-                        "Variety Hair 1.0+"
-                    ]
-                },
-                "gloomy.gloomyhairmk2": {
-                    "name": [
-                        "Gloomy Hair mk2"
-                    ]
-                },
-                "gwhair.noface": {
-                    "name": [
-                        "Gw hair mod [hair only]"
-                    ]
-                },
-                "killface.facialstuff": {
-                    "name": [
-                        "Facial Stuff 1.1"
-                    ]
-                },
-                "lat.veehair": {
-                    "name": [
-                        "Vee Hairs"
-                    ]
-                },
-                "lingluo.lovelyhairstyle": {
-                    "name": [
-                        ""
-                    ]
-                },
-                "mengde.fe3h.ashenwolveshair": {
-                    "name": [
-                        "FE3H Ashen Wolves Hair"
-                    ]
-                },
-                "mengde.fe3h.blackeagleshair": {
-                    "name": [
-                        "FE3H Black Eagles Hair"
-                    ]
-                },
-                "mengde.fe3h.bluelionshair": {
-                    "name": [
-                        "FE3H Blue Lions Hair"
-                    ]
-                },
-                "mengde.fe3h.goldendeerhair": {
-                    "name": [
-                        "FE3H Golden Deer Hair"
-                    ]
-                },
-                "mengde.fe3h.mischair": {
-                    "name": [
-                        "FE3H Misc Hair"
-                    ]
-                },
-                "nackbladinc.rimhair": {
-                    "name": [
-                        "Nackblad Inc Rimhair"
-                    ]
-                },
-                "orion.xevarimhair": {
-                    "name": [
-                        "Xeva's Rimhair"
-                    ]
-                },
-                "rimsenal.hair": {
-                    "name": [
-                        "Rimsenal - Hair pack"
-                    ]
-                },
-                "riprusse.manhair": {
-                    "name": [
-                        "Manly Hairstyles"
-                    ]
-                },
-                "rooboid.accessoryhair": {
-                    "name": [
-                        "Roo's Accessory Hairstyles"
-                    ]
-                },
-                "rooboid.dreadlockhair": {
-                    "name": [
-                        "Roo's Dreadlock Hairstyles"
-                    ]
-                },
-                "rooboid.glasseshair": {
-                    "name": [
-                        "Roo's Glasses Hairstyles"
-                    ]
-                },
-                "showhair.kv.rw": {
-                    "name": [
-                        "[KV] Show Hair With Hats or Hide All Hats"
-                    ]
-                },
-                "spoonshortage.spoonshairmod": {
-                    "name": [
-                        "Spoons Hair Mod"
-                    ]
-                },
-                "thundercraft.lessdefaulthair": {
-                    "name": [
-                        "Less Default Hair"
-                    ]
-                },
-                "vanillaexpanded.vhe": {
-                    "name": [
-                        "Vanilla Hair Expanded"
-                    ]
-                },
-                "vanya.agent.lolidrophairshop": {
-                    "name": [
-                        "Lolidrop's hairshop"
-                    ]
-                },
-                "won.hair": {
-                    "name": [
-                        "Won hair_men"
-                    ]
-                },
-                "won2.hair": {
-                    "name": [
-                        "Won hair_women "
-                    ]
-                }
             }
         },
         "aaaaa.moretradeshipsdoublepop": {
@@ -187,22 +29,10 @@
             }
         },
         "aalnius.graddonfix": {
-            "loadBefore": {
-                "vanillaexpanded.vtexgr": {
-                    "name": [
-                        "Vanilla Textures Expanded - Genetic Rim"
-                    ]
-                }
-            },
             "loadAfter": {
                 "sarg.alphaanimals": {
                     "name": [
                         "Alpha Animals"
-                    ]
-                },
-                "sarg.geneticrim": {
-                    "name": [
-                        "Genetic Rim"
                     ]
                 },
                 "sarg.geneticrimalphaanimals": {
@@ -4018,21 +3848,6 @@
                 "vanillaexpanded.vfespacer": {
                     "name": [
                         "Vanilla Furniture Expanded - Spacer Module"
-                    ]
-                }
-            }
-        },
-        "kentington.saveourship2": {
-            "loadAfter": {
-                "albion.sparklingworlds.addon.events": {
-                    "name": [
-                        "Sparkling Worlds Addon - More Events - Standalone Addon"
-                    ]
-                },
-                "vanillaexpanded.vee": {
-                    "name": [
-                        "Vanilla Events Expanded",
-                        "Russian version Vanilla Events Expanded"
                     ]
                 }
             }
@@ -11402,6 +11217,43 @@
                 "co.uk.epicguru.meleeanimation": {
                     "comment": "Should load After Melee Animation else there will be TONS OF ERRORS spammed permanently.",
                     "name": "Melee Animation"
+                }
+            }
+        },
+        "brrainz.achtung": {
+            "loadAfter": {
+                "zh.dame.arcanetechnology": {
+                    "comment": "",
+                    "name": "Arcane Technology_zh"
+                }
+            }
+        },
+        "ionfrigate12345.sos2veepatch": {
+            "loadAfter": {
+                "ushanka.glitterworlduprising": {
+                    "comment": "TEST",
+                    "name": "Ushankas Glitterworld Uprising"
+                }
+            }
+        },
+        "jgh.qualitybuilder": {
+            "loadAfter": {
+                "katsudon.uibuttonretexture": {
+                    "comment": "U",
+                    "name": "UI Button Retexture"
+                }
+            }
+        },
+        "ocean.universaltranslationframework": {
+            "loadBottom": {
+                "value": true
+            }
+        },
+        "sr.modrimworld.factionalwarcontinued": {
+            "loadAfter": {
+                "zh.dame.ignorance": {
+                    "comment": "U",
+                    "name": "Ignorance Is Bliss_zh"
                 }
             }
         }
