@@ -1,5 +1,5 @@
 {
-    "timestamp": 1748362949,
+    "timestamp": 1749445241,
     "rules": {
         "3tes.cgtwaa": {
             "loadAfter": {
@@ -4024,11 +4024,6 @@
         },
         "kentington.saveourship2": {
             "loadAfter": {
-                "albion.sparklingworlds.addon.events": {
-                    "name": [
-                        "Sparkling Worlds Addon - More Events - Standalone Addon"
-                    ]
-                },
                 "vanillaexpanded.vee": {
                     "name": [
                         "Vanilla Events Expanded",
