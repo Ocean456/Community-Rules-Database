@@ -1,5 +1,5 @@
 {
-    "timestamp": 1749448045,
+    "timestamp": 1749477021,
     "rules": {
         "3tes.cgtwaa": {
             "loadAfter": {
@@ -4018,15 +4018,6 @@
                 "vanillaexpanded.vfespacer": {
                     "name": [
                         "Vanilla Furniture Expanded - Spacer Module"
-                    ]
-                }
-            }
-        },
-        "kentington.saveourship2": {
-            "loadAfter": {
-                "albion.sparklingworlds.addon.events": {
-                    "name": [
-                        "Sparkling Worlds Addon - More Events - Standalone Addon"
                     ]
                 }
             }
