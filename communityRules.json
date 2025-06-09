@@ -1,5 +1,5 @@
 {
-    "timestamp": 1748362949,
+    "timestamp": 1749448045,
     "rules": {
         "3tes.cgtwaa": {
             "loadAfter": {
@@ -4027,12 +4027,6 @@
                 "albion.sparklingworlds.addon.events": {
                     "name": [
                         "Sparkling Worlds Addon - More Events - Standalone Addon"
-                    ]
-                },
-                "vanillaexpanded.vee": {
-                    "name": [
-                        "Vanilla Events Expanded",
-                        "Russian version Vanilla Events Expanded"
                     ]
                 }
             }
